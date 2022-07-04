@@ -152,7 +152,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/knex/knex.git"
+    "url": "git://github.com/create-global/knex.git"
   },
   "homepage": "https://knex.github.io/documentation/",
   "keywords": [
